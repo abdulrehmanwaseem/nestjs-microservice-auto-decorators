@@ -5,6 +5,9 @@ node_modules/
 dist/
 coverage/
 
+# TGZ
+*.tgz
+
 # Logs
 logs/
 *.log
@@ -31,3 +34,4 @@ Thumbs.db
 # Temporary files
 tmp/
 temp/
+

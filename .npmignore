@@ -3,3 +3,4 @@ test/
 tsconfig.json
 CODE_OF_CONDUCT.md
 SECURITY.md
+*.tgz
