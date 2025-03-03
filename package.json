@@ -1,6 +1,6 @@
 {
   "name": "nestjs-microservice-auto-decorators",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "AutoSend and AutoMessagePattern decorators for NestJS microservices to reduce boilerplate and enforce consistency.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
