@@ -20,11 +20,11 @@
 
 ## Features
 
-- **AutoMessagePattern:** Automatically generates a message pattern based on the controller's metadata or class name and the decorated method name.
-- **AutoSend:** Automatically constructs the message pattern for client methods and sends payloads via a `ClientProxy`.
-- **Zero Configuration:** Works out-of-the-box with sensible defaults.
-- **Type Safety:** Fully typed with TypeScript, ensuring robust development.
-- **Performance Optimized:** Minimal overhead with maximum convenience.
+- 🔄 **AutoMessagePattern:** Automatically generates a message pattern based on the controller's metadata or class name and the decorated method name.
+- 📨 **AutoSend:** Automatically constructs the message pattern for client methods and sends payloads via a `ClientProxy`.
+- 🚀 **Zero Configuration:** Works out-of-the-box with sensible defaults.
+- 🔍 **Type Safety:** Fully typed with TypeScript, ensuring robust development.
+- 📊 **Performance Optimized:** Minimal overhead with maximum convenience.
 
 ---
 
