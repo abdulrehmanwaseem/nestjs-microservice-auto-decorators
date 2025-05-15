@@ -5,8 +5,8 @@
   <img src="https://img.shields.io/npm/l/nestjs-microservice-auto-decorators.svg" alt="Package License" />
   <img src="https://img.shields.io/npm/dm/nestjs-microservice-auto-decorators.svg" alt="NPM Downloads" />
 </p>
-![image](https://github.com/user-attachments/assets/599de5b0-78d0-4a86-89f1-0633e891e5a4)
-
+<!-- ![image](https://github.com/user-attachments/assets/599de5b0-78d0-4a86-89f1-0633e891e5a4)
+ -->
 
 <p align="center">
   Streamlining NestJS microservices communication with powerful automatic decorators: <b>AutoMessagePattern</b> and <b>AutoSend</b>.
